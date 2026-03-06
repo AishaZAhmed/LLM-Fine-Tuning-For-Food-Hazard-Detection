@@ -1,7 +1,7 @@
 # LLM-Fine-Tuning-For-Food-Hazard-Detection
 Completed By: Aisha Ahmed
 
-Instructor: Dr. Zarrinkalam & Dr. Noughabi 
+Instructors: Dr. Zarrinkalam & Dr. Noughabi 
 
 Project Completion: 2025-03-06
 
